@@ -116,8 +116,9 @@ body {
     border-top: 5px solid #0B2E33;
 }
 .last-description p {
+    text-align: center;
     padding: 2rem 0;
-    width: 80%;
+    width: 100%;
     line-height: 1.5;
 }
 footer  {
